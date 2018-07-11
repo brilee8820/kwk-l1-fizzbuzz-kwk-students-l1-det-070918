@@ -8,4 +8,4 @@ def fizzbuzz(int)
   else
 end
 end
-fizzbuzz(15)
+fizzbuzz(8)
