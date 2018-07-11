@@ -7,4 +7,4 @@ def fizzbuzz(int)
 else
 end
 end
-fizzbuzz(3)
+fizzbuzz()
